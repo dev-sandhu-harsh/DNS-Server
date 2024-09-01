@@ -1,0 +1,22 @@
+{
+  "name": "dns-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-sandhu-harsh/DNS-Server.git"
+  },
+  "author": "Harsh Sandhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-sandhu-harsh/DNS-Server/issues"
+  },
+  "homepage": "https://github.com/dev-sandhu-harsh/DNS-Server#readme",
+  "description": "",
+  "dependencies": {
+    "dns-packet": "^5.6.1"
+  }
+}
